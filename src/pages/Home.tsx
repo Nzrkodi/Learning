@@ -1,6 +1,6 @@
 function Home() {
     return ( 
-        <h2>Halaman Dashboard</h2>
+        <h1>Halaman Home</h1>
     );
 }
 
